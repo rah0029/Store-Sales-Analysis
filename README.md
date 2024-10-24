@@ -1,5 +1,7 @@
 # Diwali Sales Analysis: Exploratory Data Analysis
 
+## Dataset
+Dataset Link: https://www.kaggle.com/datasets/priykushwaha/diwali-sales-dataset?resource=download
 ## Overview
 This project analyzes Diwali sales data, focusing on customer demographics, product categories, and total sales. The analysis is conducted to understand sales patterns and customer preferences during the Diwali season. Key insights are drawn from the data to assist in optimizing future marketing and sales strategies.
 
