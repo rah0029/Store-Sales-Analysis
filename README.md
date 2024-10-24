@@ -8,7 +8,7 @@ The primary objective of this analysis is to identify the customer segments that
 
 ## Analytics and Findings
 
-Top Product Categories: Food, Clothing, and Electronics were the highest-selling categories during the Diwali season, with Food category showing the highest total sales.
-Customer Demographics: The analysis shows that married women between the ages of 26 and 35 from states like Uttar Pradesh, Maharashtra, and Karnataka are the most frequent buyers, particularly those working in the IT, healthcare, and aviation sectors.
-Purchase Preferences: Customers in the identified demographics are likelier to buy products from the Food, Clothing, and Electronics categories.
-Regional Insights: High sales concentrations were observed in specific states like Uttar Pradesh, Maharashtra, and Karnataka, making them key regions for future marketing efforts.
+- Top Product Categories: Food, Clothing, and Electronics were the highest-selling categories during the Diwali season, with Food category showing the highest total sales.
+- Customer Demographics: The analysis shows that married women between the ages of 26 and 35 from states like Uttar Pradesh, Maharashtra, and Karnataka are the most - frequent buyers, particularly those working in the IT, healthcare, and aviation sectors.
+- Purchase Preferences: Customers in the identified demographics are likelier to buy products from the Food, Clothing, and Electronics categories.
+- Regional Insights: High sales concentrations were observed in specific states like Uttar Pradesh, Maharashtra, and Karnataka, making them key regions for future marketing efforts.
